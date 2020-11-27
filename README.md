@@ -8,13 +8,12 @@ I also have some others based off of OS's:
 -Ubuntu Glitch Wallpaper
 -Windows 10 (Build 1909)
 
-And that one meme I found while running a .png search on one of my machines:
+And that one meme I found in my edge cache folders after a pinterest meme run:
 -degeneracy.png (a.k.a. Lucario as a McDonalds employee in the Pokemon SWSH universe)
 
 I'll be making more and putting them here and in Epsilon's development Discord server.
 
-There are two convimg files, the normal one creates the appvars with compression, and
-the old one I used originally before the later builds used different headers and lacked
-compression. Note that the yaml's will only work with convimg 8.3+
+Note that the yaml will only work with convimg 8.3+, as it's what VYSION is being built
+with currently.
 
 Have a bizzare day!
