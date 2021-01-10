@@ -1,9 +1,10 @@
 outputs:
   - type: appvar
-  name: CEMETECH
+    name: CEMETECH
     converts:
         - Cemetech_Wallpaper
     header-string: VYSWALFIX
+    compress: zx7
     archived: true
 
   - type: appvar
@@ -11,6 +12,7 @@ outputs:
     converts:
         - TI_Planet_Wallpaper
     header-string: VYSWALFIX
+    compress: zx7
     archived: true
 
   - type: appvar
@@ -18,6 +20,7 @@ outputs:
     converts:
         - Omnimaga_Wallpaper
     header-string: VYSWALFIX
+    compress: zx7
     archived: true
 
   - type: appvar
@@ -25,6 +28,7 @@ outputs:
     converts:
         - Windows10_Wallpaper
     header-string: VYSWALFIX
+    compress: zx7
     archived: true
 
   - type: appvar
@@ -32,6 +36,7 @@ outputs:
     converts:
         - Ubuntu_Wallpaper
     header-string: VYSWALFIX
+    compress: zx7
     archived: true
 
   - type: appvar
@@ -39,41 +44,36 @@ outputs:
     converts:
         - Stupid_meme_I_found_in_my_Edge_cache
     header-string: VYSWALFIX
+    compress: zx7
     archived: true
 
 converts:
   - name: Cemetech_Wallpaper
     palette: xlibc
-    compress: zx7
     images:
         - Wallpapers/Cemetech.png
 
   - name: TI_Planet_Wallpaper
     palette: xlibc
-    compress: zx7
     images:
         - Wallpapers/TIplanet.png
 
   - name: Omnimaga_Wallpaper
     palette: xlibc
-    compress: zx7
     images:
         - Wallpapers/Omnimaga.png
 
   - name: Windows10_Wallpaper
     palette: xlibc
-    compress: zx7
     images:
         - Wallpapers/windows10.png
 
   - name: Ubuntu_Wallpaper
     palette: xlibc
-    compress: zx7
     images:
         - Wallpapers/ubuntuGlitch.png
 
   - name: Stupid_meme_I_found_in_my_Edge_cache
     palette: xlibc
-    compress: zx7
     images:
         - Wallpapers/degeneracy.png
